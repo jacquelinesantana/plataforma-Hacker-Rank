@@ -1,4 +1,4 @@
-# plataforma-Hacker-Rank
+# Plataforma-Hacker-Rank
 Explorando a plataforma, recursos, como se preparar para testes lógicos através da ferramenta.
 
 1. preparar para uma nova entrevista
