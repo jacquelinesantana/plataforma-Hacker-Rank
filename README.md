@@ -94,3 +94,31 @@ Antes de apresentar o passo a passo, é importante reforçar que vou incluir ima
 
 ### Imagens:
 
+![01-tela inicial](https://user-images.githubusercontent.com/8031302/200458556-3b5d09f2-c307-4e24-a423-f3f27c327c61.JPG)
+
+![02-tela inicial](https://user-images.githubusercontent.com/8031302/200458590-87e57ff5-62f8-4957-935b-670ed6059a71.JPG)
+
+![03-tela inicial](https://user-images.githubusercontent.com/8031302/200458604-fc76baf3-038b-43ed-b313-0c2c60bd453b.JPG)
+
+![05-escolha da tela modo dark ou não](https://user-images.githubusercontent.com/8031302/200458622-464c9ad4-4a0f-4299-ba47-e9e3ee0982bf.JPG)
+
+![09 - mudar idioma pelo navegador](https://user-images.githubusercontent.com/8031302/200458683-3b6d8c02-6484-450a-9086-dd94beae1c19.jpg)
+
+![10 - iniciar treinamento](https://user-images.githubusercontent.com/8031302/200458693-9b72ca36-b5e5-4e0b-9948-6bcd4241a66e.jpg)
+
+![11 - iniciar treinamento 2](https://user-images.githubusercontent.com/8031302/200458706-733ef746-52ee-4c7c-81a0-42f268d25055.jpg)
+
+![12 - exercício 1 - contar numeros pos-neg-zeros e total de numeros](https://user-images.githubusercontent.com/8031302/200458737-4855707e-09a8-4ab9-a352-f75d2ecba13e.JPG)
+
+![13 - escolher linguagem para a resolução](https://user-images.githubusercontent.com/8031302/200458728-61f0c7b2-4c6c-48c8-9127-1552020a0b39.jpg)
+
+![14 - no codigo terá marcado onde vc deve entrar com a sua solução - exemplo trabalharemos apenas um metodo](https://user-images.githubusercontent.com/8031302/200458735-bf44208f-472f-419e-866f-4366f610d3d2.jpg)
+
+![18 - executar a aplicação para validar antes de submissão](https://user-images.githubusercontent.com/8031302/200458806-5e176a50-8b3a-42d8-8788-1934772a4ade.jpg)
+
+![15 - escreva seu codigo conforme a orientação dentro do local indicado e ao finalizar clicar em submit code](https://user-images.githubusercontent.com/8031302/200458750-9ea77761-cc23-41ae-9ecc-7d850445c27d.jpg)
+
+![16 - solução dentro das chaves do metodo que o exercicio indica para criar a solução](https://user-images.githubusercontent.com/8031302/200458768-9e3373a9-3a25-4316-a858-1e2851737df3.jpg)
+
+![17 - envio da solução tela de validação](https://user-images.githubusercontent.com/8031302/200458831-7cbb35a0-cad2-4347-b1a7-5467e63a0f17.jpg)
+
