@@ -7,6 +7,8 @@ Explorando a plataforma, recursos, como se preparar para testes lógicos atravé
 4. Eu tenho minha entrevista em opções Uma semana; Um Mês; 3 Meses ou Mais de 3 Meses. Marque a opção Eu tenho interesse em ser conectada com outras oportunidades de trabalho.
 5. clicar no botão Let's go - Vamos lá
 
+> Lembrando que não é obrigatório fazer o preparatório que a plataforma indica fazer, mas isso também pode gerar mais familiaridade com a ferramenta.
+
 exercício da plataforma 1
 
 ```
@@ -91,6 +93,8 @@ Antes de apresentar o passo a passo, é importante reforçar que vou incluir ima
 12. Agora é desenvolver a solução e quando finalizada testar clicando primeiro no botão Run Code, veja com atenção a resposta da aplicação em execução(pode demorar alguns segundos) e se deu tudo certo clicar em submit Code;
 13. Exemplo de uma resolução desenvolvida;
 14. Tela de sucesso ao submeter a resolução desenvolvida, é necessário rolar a pagina para baixo;
+
+> Lembrando que não é obrigatório fazer o preparatório que a plataforma indica fazer, mas isso também pode gerar mais familiaridade com a ferramenta.
 
 ### Imagens:
 
