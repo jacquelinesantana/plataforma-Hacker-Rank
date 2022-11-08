@@ -92,3 +92,5 @@ Antes de apresentar o passo a passo, é importante reforçar que vou incluir ima
 13. Exemplo de uma resolução desenvolvida;
 14. Tela de sucesso ao submeter a resolução desenvolvida, é necessário rolar a pagina para baixo;
 
+### Imagens:
+
